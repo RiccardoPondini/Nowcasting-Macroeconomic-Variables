@@ -1,1 +1,1 @@
-This project on Eviews explores the performance of different forecasting models for U.S. GDP growth using high-frequency economic indicators.
+This project implements and compares several nowcasting models to forecast U.S. GDP growth, focusing on the 2008 financial crisis period. The methodology combines high-frequency monthly indicators and low-frequency quarterly output data, utilizing EViews as the primary statistical platform.
